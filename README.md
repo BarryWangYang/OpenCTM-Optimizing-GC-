@@ -9,4 +9,4 @@ The previous openctm plug-in did not process more than 65,000 vertices of Unity 
 And will continue to update in the future.
 
 
-i[Split Mesh](https://github.com/BarryWangYang/OpenCTM-Optimizing-GC-/blob/master/QQ%E6%88%AA%E5%9B%BE20190706154546.png)
+![Split Mesh](https://github.com/BarryWangYang/OpenCTM-Optimizing-GC-/blob/master/QQ%E6%88%AA%E5%9B%BE20190706154546.png)
